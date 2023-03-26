@@ -1,4 +1,4 @@
 #  Autolayout
 
-Adjust view layout depending on orientation
+Adjust view layout depending on orientation with constraints
 
